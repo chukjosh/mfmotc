@@ -26,4 +26,4 @@ Stay tuned for upcoming events and community activities. Your participation is v
 To clone this repository, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/mfmotc.git
+git clone https://github.com/chukjosh/mfmotc.git
