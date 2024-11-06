@@ -4,7 +4,7 @@ Welcome to the MFMOTC (MFM Olowora Teenage Church Province 3E) repository! This 
 
 ## About Us
 
-MFM focuses on youth ministries, offering spiritual guidance through programs like Bible studies, workshops, and social activities that promote moral values.
+MFM focuses on teenage ministries, offering spiritual guidance through programs like Bible studies, workshops, and social activities that promote moral values.
 
 ## Services
 
